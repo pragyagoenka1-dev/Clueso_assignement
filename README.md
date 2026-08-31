@@ -19,7 +19,7 @@ branch, root) and the demo is live at your Pages URL.
 ## The flow
 
 1. **Templates** — create a Clueprint from the dashed card or the "New Clueprint" button
-2. **Path chooser** — start from a Clueso video (recommended), an uploaded reference, or a prompt
+2. **Path Chooser** — start from a Clueso video (recommended), an uploaded reference, or a prompt
 3. **Analyze** — a laser film-scanner reads structure, pacing, branding, and reusable slots
 4. **Review** — two-column editor: live preview + scene timeline on the left; agent
    instructions, editable scenes, timing, branding, text styles, and variable slots on the right.
